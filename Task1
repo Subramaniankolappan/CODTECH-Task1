@@ -1,0 +1,39 @@
+/*SIMPLE CALCULATOR*/
+
+import java.util.*;
+public class calculator
+{
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the first number:");
+        Double a = sc.nextDouble();
+        System.out.println("Enter the second number:");
+        Double b = sc.nextDouble();
+        System.out.println("Enter the operator +,-,*,/");
+        char operator = sc.next().charAt(0);
+        boolean isValid = true;
+        double result = 0;
+        switch(operator){
+            case '+':
+                result=a+b;
+                break;
+            case '-':
+                result=a-b;
+                break;
+            case '*':
+                result=a*b;
+                break;
+            case '/':
+                result=a/b;
+                break;
+            default:
+            System.out.println("Unknown operator select any one of these(+,-,*,/)");
+            isValid = false;
+            break;
+            
+        }if(isValid) {System.out.println(a +" "+ b + "=" +result);}
+        
+    }
+    
+}
+    
