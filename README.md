@@ -1,11 +1,11 @@
-**Name:**K.Subramanian
+Name:K.Subramanian
 
-**Company:**CODTECH IT SOLUTIONS
+Company:CODTECH IT SOLUTIONS
 
-**ID:**
+Id:
 
-**Domain:**Java Programming
+Domain:Java Programming
 
-**Duration:**June to July
+Duration:June to July
 
-**Mentor:**
+Mentor:
