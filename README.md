@@ -1,12 +1,15 @@
-Name:K.Subramanian
+Name: K.Subramanian
 
-Company:CODTECH IT SOLUTIONS
+Company: CODTECH IT SOLUTIONS
 
-Id:
+Id: CT08DS3213
 
-Domain:Java Programming
+Domain: Java Programming
 
-Duration:June to July
+Duration: June to July
 
 Mentor:
 
+Overview of the project 
+
+Project: 
