@@ -12,4 +12,23 @@ Mentor:
 
 Overview of the project 
 
-Project: 
+Project: Simple Calculator.
+
+Objective 
+
+The objective of the project is to perform a calculator.The aim is to calculate the numbers according to the given operator.
+
+Key Activities 
+
+Addition: Adding the two numbers which the user going to give.
+
+Subtraction: Subtracting the two numbers which the user going to give.
+
+Multiplication: Multiplying the two numbers which the user going to give.
+
+Division: Dividing the two numbers which the user going to give
+
+Technologies Used 
+
+Java: The object primary programming language(Oops) designed for building a wide range of application.
+
