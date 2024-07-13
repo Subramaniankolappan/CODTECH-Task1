@@ -14,7 +14,8 @@ Mentor:
 
 Overview of the project 
 
-Project: Simple Calculator.
+Project:  SIMPLE CALCULATOR.
+
 
 Objective 
 
